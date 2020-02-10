@@ -1,2 +1,0 @@
-# ProjectEuler
-Created with CodeSandbox
